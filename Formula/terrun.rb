@@ -2,10 +2,10 @@
 class Terrun < Formula
   desc "terrun - efficient terminal runner"
   homepage "https://github.com/mikeborodin/terrun"
-  url "https://github.com/mikeborodin/terrun/releases/download/0.0.13/terrun.tar.gz"
-  sha256 "383aa4cdc3441d63bf834ce59ea643dcd3bb8719e59b64eda6ed72ef85f6df34"
+  url "https://github.com/mikeborodin/terrun/releases/download/0.0.14/terrun.tar.gz"
+  sha256 "edd70398f90959f95317e69d615c77d08b3652da0f7b7925e45c253057db71be"
   license "MIT"
-  version "0.0.13"
+  version "0.0.14"
 
   def install
     bin.install "terrun"
